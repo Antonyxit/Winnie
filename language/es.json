@@ -21,7 +21,7 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*Hola no se puede escribir al privado del bot si quieres comprar uno por favor hablar al siguiente número +52 5573874303"
+            "texto1": "_*< ANTI-PRIVADO />*_\n\n*no mandar privado serás baneado"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2350,7 +2350,7 @@
         "gc_tagall": {
             "texto1": [
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*Ei te hablan que esperas el unico bot aqui soy yo*\n\n❏",
+                "*despierten preciosos👑*\n\n❏",
                 "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
