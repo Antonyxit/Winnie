@@ -12,19 +12,19 @@ global.confirmCode = ""
 
 global.owner = [
   ['5214461281232', '👑 danny - Creador 👑', true],
-  ['5219831306428', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
-  ['5219831306428']
+  ['5215611741070', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
+  ['5215611741070']
 ];
 
-global.suittag = ['5219831306428'];
-global.prems = ['5219831306428'];
+global.suittag = ['5215611741070'];
+global.prems = ['5215611741070'];
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = '𝐀𝐂𝐋𝐔 𝐁𝐎𝐓';
-global.wm = '𝐀𝐂𝐋𝐔 𝐁𝐎𝐓';
-global.titulowm = '𝐀𝐂𝐋𝐔 𝐁𝐎𝐓';
-global.titulowm2 = `𝐀𝐂𝐋𝐔 𝐁𝐎𝐓`
-global.igfg = '𝐀𝐂𝐋𝐔 𝐁𝐎𝐓';
+global.author = '𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓';
+global.wm = '𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓';
+global.titulowm = '𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓';
+global.titulowm2 = `𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓`
+global.igfg = '𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -49,16 +49,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐀𝐂𝐋𝐔 𝐁𝐎𝐓`;
-global.gt = '𝐀𝐂𝐋𝐔 𝐁𝐎𝐓';
-global.mysticbot = '𝐀𝐂𝐋𝐔 𝐁𝐎𝐓';
-global.channel = '';
-global.md = '';
-global.mysticbot = '';
+global.wm2 = `${dia} ${fecha}\n𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓`;
+global.gt = '𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓';
+global.mysticbot = '𝐂𝐇𝐈𝐍𝐎 𝐁𝐎𝐓';
+global.channel = 'https://chat.whatsapp.com/LUAB1vS6eUXBv87O3McDQI';
+global.md = 'https://chat.whatsapp.com/LUAB1vS6eUXBv87O3McDQI';
+global.mysticbot = 'https://chat.whatsapp.com/LUAB1vS6eUXBv87O3McDQI';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219831306428';
+global.nomorown = '5215611741070';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
