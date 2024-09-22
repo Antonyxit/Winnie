@@ -12,19 +12,19 @@ global.confirmCode = ""
 
 global.owner = [
   ['5214461281232', '👑 danny - Creador 👑', true],
-  ['5215658859551', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
-  ['5215658847374']
+  ['5217421160806', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
+  ['5217421160806']
 ];
 
-global.suittag = ['5215658859551'];
-global.prems = ['5215658859551'];
+global.suittag = ['5217421160806'];
+global.prems = ['5217421160806'];
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
-global.wm = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
-global.titulowm = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
-global.titulowm2 = `ɢʜᴏꜱꜱ ʙᴏᴛ`
-global.igfg = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.author = '𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ';
+global.wm = '𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ';
+global.titulowm = '𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ';
+global.titulowm2 = `𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ`
+global.igfg = '𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -49,16 +49,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nɢʜᴏꜱꜱ ʙᴏᴛ`;
-global.gt = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
-global.mysticbot = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.wm2 = `${dia} ${fecha}\n𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ`;
+global.gt = '𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ';
+global.mysticbot = '𝐖𝐢𝐧𝐧𝐢𝐞 ʙᴏᴛ';
 global.channel = '';
 global.md = '';
 global.mysticbot = '';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5215658859551';
+global.nomorown = '5217421160806';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
